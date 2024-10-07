@@ -2,10 +2,9 @@
 
 #模組
 import random
-from math import *
 
 #密碼
-password=(floor(random.uniform(0,100)))
+password=randint(0,100)
 #最大值
 num_max=100
 #最小值
